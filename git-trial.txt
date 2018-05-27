@@ -1,2 +1,2 @@
 This is a plain text file. 
-Just made some changes. deleted some text and added some new.
+Just made some changes. deleted some text and added new. 
